@@ -1,7 +1,7 @@
 # siakad
 Website Siakad merupakan sebuah projek website tugas mahasiswa untuk mengelola data-data yang berhubungan dengan akademik siswa. Website ini menggunakan bahasa pemograman PHP Framework Laravel 7 dan MySQL.
 
-Donasi cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
+Donasi cuma Rp. 100.000 saja untuk rokok dan kopi hehehe
 
 Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
 
