@@ -1,6 +1,10 @@
 # siakad
 Website Siakad merupakan sebuah projek website tugas mahasiswa untuk mengelola data-data yang berhubungan dengan akademik siswa. Website ini menggunakan bahasa pemograman PHP Framework Laravel 7 dan MySQL.
 
+Donasi cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
+
+Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
+
 Fitur pada website ini: 
 1. Login Admin
 2. Login Guru
@@ -24,4 +28,4 @@ Fitur pada website ini:
 3. Lihat Data Jadwal
 4. Input Nilai Siswa
 
-Source Code dapat di download pada LINK https://drive.google.com/file/d/1MwCrUBlaRfPuHWHSl5NnZskk9j_UO4i_/view?usp=sharing
+
